@@ -13,6 +13,9 @@
     "express": "~4.10.7",
     "body-parser": "~1.10.1",
     "method-override": "~2.3.1",
-    "angular-ui-router": "~0.2.13"
+    "angular-ui-router": "~0.2.13",
+    "fs":"latest",
+    "connect-busboy":"latest",
+    "path":"latest"
   }
 }
