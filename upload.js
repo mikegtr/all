@@ -1,4 +1,4 @@
-
+ 'use strict';
 var app = angular.module('myApp');
 
 app.controller('AppController', ['$scope', 'FileUploader','variable', function($scope, FileUploader,variable) {
